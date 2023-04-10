@@ -1,0 +1,2 @@
+1) run index.py in your terminal
+2) it opens a window , and enter your name and click to start the game 
